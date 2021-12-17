@@ -45,17 +45,17 @@ churn, (yes/no). Customer churn - target variable.
 1. Recommendation 1:
 	- Offer new product offering to cater to customers with different calling minute needs.
 	- EDA shows that there could customers leaving due to a mismatch of product offering.
-	![image 1](./images/1.JPEG)
+	![image 1](./images/1.JPG)
 ​
 2. Recommendation 2:
 	- Focus on customers that shows the profile of Churn but has yet to switch Telco.
 	- A XGBoost model has been developed to identify this group of people. A Shapley analysis has also been completed.
-	![image 2](./images/2.JPEG)
+	![image 2](./images/2.JPG)
 	
 3. Recommendation 3:
 	- EDA shows there are some customers that switch Telcos because they are disatisfied with the service or experience.
 	- For further analysis to see which areas are lacking and to be improved.
-	![image 2](./images/3.JPEG)
+	![image 2](./images/3.JPG)
 	
 ​
 ### Conclusion
